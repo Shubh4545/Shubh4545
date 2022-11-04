@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shhubham 
+- 👋 Hi, I’m shubham 
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently Exploring Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
